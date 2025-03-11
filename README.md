@@ -123,4 +123,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@example.com].
+For any questions or suggestions, please contact [developersam.w@gmail.com].
